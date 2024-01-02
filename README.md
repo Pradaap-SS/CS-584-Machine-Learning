@@ -1,14 +1,14 @@
 # CS-584-Machine-Learning
 
-#COURSE OUTLINE
+# COURSE OUTLINE
 
-#What to expect from this course
+# What to expect from this course
 
 Machine learning can be covered at different levels. The focus of this course is the understanding of algorithms and techniques used in machine learning. Students in the course are expected to write computer programs (Python) implementing different techniques taught in the course. The course requires mathematical background and some programming experience. This course does not intend to teach how to use a specific application software.
 
 
 
-#Objectives
+# Objectives
 
 Introduce the fundamental problems of machine learning.
 Provide understanding of techniques, mathematical concepts, and algorithms used in machine learning to facilitate further study in this area.
@@ -17,7 +17,7 @@ Provide pointers into the literature and exercise a project based on literature 
 Practice software implementation of different concepts and algorithms covered in the course.
 
 
-#Overview
+# Overview
 
 Introduction: overview of machine learning, related areas, applications, software tools, course objectives.
 Parametric regression: linear regression, polynomial regression, locally weighted regression, numerical optimization, gradient descent, kernel methods.
@@ -32,5 +32,5 @@ Reinforcement learning
 Final project: students present selected topics and develop software implementation of related techniques based on the review of relevant literature. The work should be summarized in a concluding report which should include simulation results. A list of possible topics will be available prior to the project selection due date.
 
 
-#Link 
+# Link 
 http://www.cs.iit.edu/~agam/cs584/index.html
